@@ -2,6 +2,7 @@
 # Hi 👋, I'm Victoria Okonnah
 
 **Full-Stack Software Engineer | React · Angular · TypeScript · Node.js**
+🌍 Open to international opportunities, remote or onsite, and willing to relocate for the right role.
 
 I’m a software engineer with 5 years of professional experience building web and mobile applications. I enjoy turning complex requirements into reliable, maintainable software, with a strong focus on frontend architecture, reusable components, and scalable application design.
 
