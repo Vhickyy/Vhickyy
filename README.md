@@ -20,3 +20,30 @@ I'm particularly interested in software architecture, cloud infrastructure, DevO
 - 🤖 Exploring AI engineering and agentic workflows.
 - 🧠 I value clean code, thoughtful architecture, continuous learning, and solving real-world problems.
 
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=react,angular,nextjs,typescript,javascript,html,css,tailwind" />
+</p>
+
+### Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express" />
+</p>
+
+### Databases & Data Management
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,redis" />
+</p>
+
+### Testing & Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=jest,git,github,docker,vscode,postman" />
+</p>
+
+### Cloud & Infrastructure
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
+</p>
