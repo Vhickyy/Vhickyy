@@ -90,5 +90,5 @@ I'm always open to interesting engineering opportunities, collaborations, and co
 ---
 
 <p align="center">
-  <i>Building thoughtful software, one solution at a time.</i>
+  <i>Building with a focus on clean code, system design, performance, and long-term reliability.</i>
 </p>
