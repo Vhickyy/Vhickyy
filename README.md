@@ -47,3 +47,32 @@ I'm particularly interested in software architecture, cloud infrastructure, DevO
 <p>
   <img src="https://skillicons.dev/icons?i=aws,docker,linux" />
 </p>
+
+
+## 🚀 Featured Projects
+
+### 🎓 StudentHub
+A student self-management platform designed to help university students manage academic activities, grades, and personal academic progress.
+
+- Building the mobile application with React Native and NativeWind.
+- Developing backend services with NestJS, PostgreSQL, and TypeORM.
+- Implementing authentication, role-based access control, and database migrations.
+- Building an Angular administration dashboard.
+- Working with Docker for containerized development.
+
+**Technologies:** React Native · Angular · NestJS · PostgreSQL · TypeORM · Docker
+
+### 🎟️ Clock In Guest
+An event guest management and check-in platform designed to help event planners manage invitations, guest access, and event entry.
+
+- Exploring organization-based account management and staff collaboration.
+- Designing invitation management and QR-based guest verification workflows.
+- Planning offline-first check-in capabilities and access control.
+
+**Technologies:** Angular · NestJS · PostgreSQL · TypeScript
+
+### 💻 Developer Portfolio
+A personal portfolio showcasing my engineering experience, selected projects, and approach to building software.
+
+**Technologies:** React · TypeScript · [Add your actual styling framework]
+
