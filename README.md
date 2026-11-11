@@ -71,8 +71,24 @@ An event guest management and check-in platform designed to help event planners 
 
 **Technologies:** Angular · NestJS · PostgreSQL · TypeScript
 
-### 💻 Developer Portfolio
-A personal portfolio showcasing my engineering experience, selected projects, and approach to building software.
+## 🌐 Let's Connect
 
-**Technologies:** React · TypeScript · [Add your actual styling framework]
+I'm always open to interesting engineering opportunities, collaborations, and conversations about building better software.
 
+<p align="left">
+  <a href="https://victoriaokonnah.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR-EMAIL">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>Building thoughtful software, one solution at a time.</i>
+</p>
